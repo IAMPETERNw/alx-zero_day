@@ -1,2 +1,2 @@
 Thank you Jesus.
-This line was updated direct from github
+This line was updated directly from github
